@@ -1,0 +1,125 @@
+---------------------------
+Emory Wynn
+---------------------------
+Occupation: Programmer 
+Nationality: Canadian 
+Date of birth: 1999-06-19 
+Phone: (905) 440-6716 
+Email: emorywynn@gmail.com 
+Link: Portfolio: emorywynn.infinityfreeapp.com  
+
+        
+//  Objective //
+        
+Creative, jovial, and strives to make the impossible possible. Motivated To learn new things and put all my knowledge and talent to good use.
+            
+//  Education //
+        
+_ Bachelor of Information Technology (Honours)  _
+Ontario Tech University
+Oshawa, On, 2017-09 - 2023-01
+Digital Deploma: 
+https://www.parchment.com/u/award/7f1d53eee4dc97a965457a8d7ce0e818
+
+            
+_ Ontario Secondary School Diploma _
+Brooklin Highschool
+Brooklin, On, 2013-09 - 2017-06
+
+            
+//  Skills //
+        
+• Object Oriented Programming 
+            
+• C++
+            
+• C#
+            
+• Unity
+            
+• Game Engines
+            
+• Linear Algebra 
+            
+• Problem-Solving
+            
+• Version Control
+            
+• Teamwork
+            
+//  Projects //
+        
+GameEmGine (OpenGL)
+2018 - Present
+
+
+Summary:
+-A Game Engine/Framework using C++, made for my second year of university. Used for making a 3D team-based multiplayer game.
+
+
+
+Team Size: (Engine)Solo, (Game) 7
+
+Roles:
+-Backend Programming
+
+-Shader Programming
+-AI Logic (Game)
+
+
+            
+Console Band
+2018 - 2019
+
+
+Summary:
+A personal project to bring the comforts of RockBand to the aesthetic of a console window.
+
+
+Team Size: Solo
+
+
+Roles:
+-Gameplay Programming
+-Backend Programming
+-Multithreading 
+
+
+            
+AnimeTogether
+2019 - present
+
+
+Summary:
+-This is a remote networking project that allows for video streaming. This project uses Unity with programming in C#.
+
+
+
+Team Size: solo
+
+
+Roles:
+-Network Programming
+-Native Plugin Creation
+
+
+            
+Grad Jam: Rhythm Lizard
+2021-12
+
+
+Summary: 
+
+A Game Jam for the 4th year students at Ontario Tech University. This lasted over the course of a week before exam season. Our project was done in Unity with programming in C#.
+
+Team Size: 5
+
+Roles:
+ Gameplay Programming
+ Backend Programming
+
+            
+//  References //
+        
+Upon Request
+            
